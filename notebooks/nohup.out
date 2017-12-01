@@ -1,0 +1,308 @@
+Traceback (most recent call last):
+  File "6_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.py", line 18, in <module>
+    from keras import backend
+ModuleNotFoundError: No module named 'keras'
+Using TensorFlow backend.
+2017-12-01 05:10:58.250592: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+(1, 512, 512, 3)
+(1, 512, 512, 3)
+Start of iteration 0
+Current loss value: 8.91284e+10
+Iteration 0 completed in 340s
+Start of iteration 1
+Current loss value: 3.7017e+10
+Iteration 1 completed in 340s
+Start of iteration 2
+Current loss value: 5.32697e+10
+Iteration 2 completed in 340s
+Start of iteration 3
+Current loss value: 3.81127e+10
+Iteration 3 completed in 340s
+Start of iteration 4
+Current loss value: 4.82499e+10
+Iteration 4 completed in 340s
+Start of iteration 5
+Current loss value: 3.80974e+10
+Iteration 5 completed in 340s
+Start of iteration 6
+Current loss value: 4.93011e+10
+Iteration 6 completed in 340s
+Start of iteration 7
+Current loss value: 3.68351e+10
+Iteration 7 completed in 340s
+Start of iteration 8
+Current loss value: 4.75572e+10
+Iteration 8 completed in 339s
+Start of iteration 9
+Current loss value: 3.78995e+10
+Iteration 9 completed in 340s
+Start of iteration 10
+Current loss value: 4.65985e+10
+Iteration 10 completed in 340s
+Start of iteration 11
+Current loss value: 3.69252e+10
+Iteration 11 completed in 340s
+Start of iteration 12
+Current loss value: 4.86201e+10
+Iteration 12 completed in 340s
+Start of iteration 13
+Current loss value: 3.79486e+10
+Iteration 13 completed in 340s
+Start of iteration 14
+Current loss value: 4.64206e+10
+Iteration 14 completed in 340s
+Start of iteration 15
+Current loss value: 3.84577e+10
+Iteration 15 completed in 356s
+Start of iteration 16
+Current loss value: 4.61226e+10
+Iteration 16 completed in 339s
+Start of iteration 17
+Current loss value: 3.75715e+10
+Iteration 17 completed in 340s
+Start of iteration 18
+Current loss value: 4.69758e+10
+Iteration 18 completed in 340s
+Start of iteration 19
+Current loss value: 3.84178e+10
+Iteration 19 completed in 339s
+Start of iteration 20
+Current loss value: 4.50935e+10
+Iteration 20 completed in 340s
+Start of iteration 21
+Current loss value: 4.00383e+10
+Iteration 21 completed in 340s
+Start of iteration 22
+Current loss value: 4.56995e+10
+Iteration 22 completed in 340s
+Start of iteration 23
+Current loss value: 3.82084e+10
+Iteration 23 completed in 339s
+Start of iteration 24
+Current loss value: 4.7005e+10
+Iteration 24 completed in 339s
+Start of iteration 25
+Current loss value: 3.81056e+10
+Iteration 25 completed in 339s
+Start of iteration 26
+Current loss value: 4.60636e+10
+Iteration 26 completed in 340s
+Start of iteration 27
+Current loss value: 3.92114e+10
+Iteration 27 completed in 340s
+Start of iteration 28
+Current loss value: 4.60275e+10
+Iteration 28 completed in 339s
+Start of iteration 29
+Current loss value: 3.78611e+10
+Iteration 29 completed in 339s
+Start of iteration 30
+Current loss value: 4.74391e+10
+Iteration 30 completed in 340s
+Start of iteration 31
+Current loss value: 3.91492e+10
+Iteration 31 completed in 340s
+Start of iteration 32
+Current loss value: 4.41466e+10
+Iteration 32 completed in 340s
+Start of iteration 33
+Current loss value: 3.89108e+10
+Iteration 33 completed in 340s
+Start of iteration 34
+Current loss value: 4.69064e+10
+Iteration 34 completed in 339s
+Start of iteration 35
+Current loss value: 3.82466e+10
+Iteration 35 completed in 339s
+Start of iteration 36
+Current loss value: 4.39757e+10
+Iteration 36 completed in 340s
+Start of iteration 37
+Current loss value: 3.93679e+10
+Iteration 37 completed in 340s
+Start of iteration 38
+Current loss value: 4.4855e+10
+Iteration 38 completed in 339s
+Start of iteration 39
+Current loss value: 3.97872e+10
+Iteration 39 completed in 356s
+Start of iteration 40
+Current loss value: 4.4612e+10
+Iteration 40 completed in 340s
+Start of iteration 41
+Current loss value: 3.87692e+10
+Iteration 41 completed in 340s
+Start of iteration 42
+Current loss value: 4.68399e+10
+Iteration 42 completed in 340s
+Start of iteration 43
+Current loss value: 3.81829e+10
+Iteration 43 completed in 340s
+Start of iteration 44
+Current loss value: 4.58643e+10
+Iteration 44 completed in 340s
+Start of iteration 45
+Current loss value: 3.88322e+10
+Iteration 45 completed in 340s
+Start of iteration 46
+Current loss value: 4.44659e+10
+Iteration 46 completed in 340s
+Start of iteration 47
+Current loss value: 3.998e+10
+Iteration 47 completed in 340s
+Start of iteration 48
+Current loss value: 4.52801e+10
+Iteration 48 completed in 340s
+Start of iteration 49
+Current loss value: 4.00103e+10
+Iteration 49 completed in 356s
+Start of iteration 50
+Current loss value: 4.50348e+10
+Iteration 50 completed in 340s
+Start of iteration 51
+Current loss value: 3.94884e+10
+Iteration 51 completed in 339s
+Start of iteration 52
+Current loss value: 4.50304e+10
+Iteration 52 completed in 340s
+Start of iteration 53
+Current loss value: 3.86327e+10
+Iteration 53 completed in 340s
+Start of iteration 54
+Current loss value: 4.44753e+10
+Iteration 54 completed in 340s
+Start of iteration 55
+Current loss value: 3.86717e+10
+Iteration 55 completed in 340s
+Start of iteration 56
+Current loss value: 4.73642e+10
+Iteration 56 completed in 339s
+Start of iteration 57
+Current loss value: 3.79792e+10
+Iteration 57 completed in 340s
+Start of iteration 58
+Current loss value: 4.78992e+10
+Iteration 58 completed in 340s
+Start of iteration 59
+Current loss value: 3.83264e+10
+Iteration 59 completed in 340s
+Start of iteration 60
+Current loss value: 4.48116e+10
+Iteration 60 completed in 340s
+Start of iteration 61
+Current loss value: 3.77081e+10
+Iteration 61 completed in 339s
+Start of iteration 62
+Current loss value: 4.62834e+10
+Iteration 62 completed in 340s
+Start of iteration 63
+Current loss value: 3.76618e+10
+Iteration 63 completed in 339s
+Start of iteration 64
+Current loss value: 4.48806e+10
+Iteration 64 completed in 340s
+Start of iteration 65
+Current loss value: 3.89224e+10
+Iteration 65 completed in 340s
+Start of iteration 66
+Current loss value: 4.72213e+10
+Iteration 66 completed in 356s
+Start of iteration 67
+Current loss value: 3.75231e+10
+Iteration 67 completed in 340s
+Start of iteration 68
+Current loss value: 4.56601e+10
+Iteration 68 completed in 340s
+Start of iteration 69
+Current loss value: 3.83485e+10
+Iteration 69 completed in 340s
+Start of iteration 70
+Current loss value: 4.6601e+10
+Iteration 70 completed in 339s
+Start of iteration 71
+Current loss value: 3.78444e+10
+Iteration 71 completed in 340s
+Start of iteration 72
+Current loss value: 4.67451e+10
+Iteration 72 completed in 342s
+Start of iteration 73
+Current loss value: 3.81173e+10
+Iteration 73 completed in 339s
+Start of iteration 74
+Current loss value: 4.57131e+10
+Iteration 74 completed in 339s
+Start of iteration 75
+Current loss value: 3.7703e+10
+Iteration 75 completed in 340s
+Start of iteration 76
+Current loss value: 4.63174e+10
+Iteration 76 completed in 340s
+Start of iteration 77
+Current loss value: 3.76673e+10
+Iteration 77 completed in 341s
+Start of iteration 78
+Current loss value: 4.53897e+10
+Iteration 78 completed in 340s
+Start of iteration 79
+Current loss value: 3.90417e+10
+Iteration 79 completed in 340s
+Start of iteration 80
+Current loss value: 4.69317e+10
+Iteration 80 completed in 356s
+Start of iteration 81
+Current loss value: 3.76675e+10
+Iteration 81 completed in 340s
+Start of iteration 82
+Current loss value: 4.35148e+10
+Iteration 82 completed in 340s
+Start of iteration 83
+Current loss value: 3.96144e+10
+Iteration 83 completed in 340s
+Start of iteration 84
+Current loss value: 4.45209e+10
+Iteration 84 completed in 340s
+Start of iteration 85
+Current loss value: 3.86497e+10
+Iteration 85 completed in 340s
+Start of iteration 86
+Current loss value: 4.65582e+10
+Iteration 86 completed in 340s
+Start of iteration 87
+Current loss value: 3.75655e+10
+Iteration 87 completed in 340s
+Start of iteration 88
+Current loss value: 4.5668e+10
+Iteration 88 completed in 340s
+Start of iteration 89
+Current loss value: 3.88437e+10
+Iteration 89 completed in 340s
+Start of iteration 90
+Current loss value: 4.49805e+10
+Iteration 90 completed in 340s
+Start of iteration 91
+Current loss value: 3.87615e+10
+Iteration 91 completed in 340s
+Start of iteration 92
+Current loss value: 4.63308e+10
+Iteration 92 completed in 340s
+Start of iteration 93
+Current loss value: 3.84408e+10
+Iteration 93 completed in 340s
+Start of iteration 94
+Current loss value: 4.58524e+10
+Iteration 94 completed in 339s
+Start of iteration 95
+Current loss value: 3.80292e+10
+Iteration 95 completed in 339s
+Start of iteration 96
+Current loss value: 4.68215e+10
+Iteration 96 completed in 340s
+Start of iteration 97
+Current loss value: 3.76325e+10
+Iteration 97 completed in 340s
+Start of iteration 98
+Current loss value: 4.54509e+10
+Iteration 98 completed in 340s
+Start of iteration 99
+Current loss value: 3.87601e+10
+Iteration 99 completed in 340s
